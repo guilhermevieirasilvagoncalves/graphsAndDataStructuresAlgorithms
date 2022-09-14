@@ -1,3 +1,8 @@
+/*
+    @author: Guilherme Vieira Silva Gonçalves
+    @course: Ciência da Computação, 4th semester
+*/
+
 #include <iostream>
 #include <vector>
 #include <queue>
