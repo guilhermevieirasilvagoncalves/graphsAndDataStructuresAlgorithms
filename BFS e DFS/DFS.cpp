@@ -1,6 +1,6 @@
 /*
     @author: Guilherme Vieira Silva Gonçalves
-    @course: Ciência da Computação, 3th semester
+    @course: Ciência da Computação, 4th semester
 */
 
 #include <iostream>
