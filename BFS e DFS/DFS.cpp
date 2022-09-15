@@ -24,7 +24,7 @@ void BFS(int inicio){
         int vertice = pilha.top();
         fila.pop();
         for(int i = 0; i < G[vertice].size();i++){
-            if(!cor[G[vertice][i]]){
+            if(!cor[G[vertice][i]]){ //  se a cor for false
                 cor[G[vertice][i]] = true; // setar que passou
                 pai[G[vertice][i]] = vertice; // pai vai ser o anterior
                 distancia[G[vertice][i]] = distancia[vertice] + 1; // distancia do anterior + 1
